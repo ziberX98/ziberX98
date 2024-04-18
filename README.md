@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Laravel, Vue.js**
 
-- 👨‍💻 All of my projects are available at [Check my repositories and https://celineroscheck.com](Check my repositories and https://celineroscheck.com)
+- 👨‍💻 All of my projects are available at Check my repositories and https://celineroscheck.com
 
 - 💬 Ask me about **React**
 
